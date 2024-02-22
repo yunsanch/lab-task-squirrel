@@ -10,18 +10,18 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] View a list of tasks to be completed for the scavenger hunt
-A Task data model will have properties for title, description, image (of type UIImage?), and isComplete (a computed property which returns true if image is non-nil.
-This list will show the title property
+- [x] View a list of tasks to be completed for the scavenger hunt
+ - A Task data model will have properties for title, description, image (of type UIImage?), and isComplete (a computed property which returns true if image is non-nil.
+ - This list will show the title property
 
-- [ ] Tap into a task to see its details
-title, description, isCompleted, an annotation in an MKMapView that contains the attached photo
-If there’s no photo attached, hide the map view and show an “Attach Photo” button instead
-Hide “Attach Photo” button once the user attaches a photo and show the map view instead
+- [x] Tap into a task to see its details
+ - title, description, isCompleted, an annotation in an MKMapView that contains the attached photo
+ - If there’s no photo attached, hide the map view and show an “Attach Photo” button instead
+   - Hide “Attach Photo” button once the user attaches a photo and show the map view instead
 
-- [ ] Attach a photo inside of the task detail view
-Doing this marks the task as completed in both the detail view and task list
-View the location of the photo in a map inside of the task view
+- [x] Attach a photo inside of the task detail view
+ - Doing this marks the task as completed in both the detail view and task list
+ - View the location of the photo in a map inside of the task view
 
 
 
@@ -29,7 +29,7 @@ View the location of the photo in a map inside of the task view
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://i.imgur.com/RhfBIMl.gif) .
+[Guide](https://i.imgur.com/RhfBIMl.gif) 
 
 ## Notes
 
